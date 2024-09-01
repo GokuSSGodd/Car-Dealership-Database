@@ -1,0 +1,3 @@
+Model : lamborghini, Condition : old, Price : 3300.00, Color : red, Year : 2015, Date of Purchase : 01 03 2016
+Model : toyota, Condition : old, Price : 8500.00, Color : grey, Year : 1996, Date of Purchase : 04 19 2000
+Model : bmw, Condition : new, Price : 66000.00, Color : black, Year : 2019, Date of Purchase : 03 05 2019
